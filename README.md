@@ -32,14 +32,13 @@ The objective is to build a strong foundation in data analysis and machine learn
 ## Repository Structure
 ```text
 data-science-learning/
-├── 01_python_basics/        # Python syntax, control flow, functions
-├── 02_numpy/               # Numerical computing with NumPy
-├── 03_pandas/              # Data manipulation and analysis
-├── 04_data_cleaning/       # Handling missing data, outliers, formatting
-├── 05_eda/                 # Exploratory Data Analysis
-├── 06_statistics/          # Probability and statistical foundations
-├── 07_visualization/       # Data visualization techniques
-├── 08_ml_basics/           # Introductory machine learning concepts
+├── 01_numpy/               # Numerical computing with NumPy
+├── 02_pandas/              # Data manipulation and analysis
+├── 03_data_cleaning/       # Handling missing data, outliers, formatting
+├── 04_eda/                 # Exploratory Data Analysis
+├── 05_statistics/          # Probability and statistical foundations
+├── 06_visualization/       # Data visualization techniques
+├── 07_ml_basics/           # Introductory machine learning concepts
 ├── datasets/               # Raw and processed datasets
 ├── notebooks/              # Jupyter notebooks for experiments
 └── README.md               # Project overview and instructions
@@ -69,7 +68,7 @@ data-science-learning/
 
 ## Learning Roadmap
 
-- ✅ Python & NumPy fundamentals
+- ✅ NumPy fundamentals
 - ✅ Data manipulation with Pandas
 - 🔄 Data cleaning and EDA
 - 🔄 Statistics and visualization
