@@ -1,2 +1,90 @@
-# Data-Science
-A structured repository documenting my data science learning journey using Python. It covers NumPy, Pandas, data cleaning, exploratory data analysis, statistics, data visualization, and introductory machine learning, with hands-on notebooks and scripts focused on practical, reproducible implementation and consistent progress tracking
+# Data Science Learning Repository
+
+This repository showcases my structured and hands-on journey into Data Science using Python. It is designed as a progressive learning portfolio, emphasizing practical implementation, clean code, and real-world data handling rather than abstract theory.
+
+The objective is to build a strong foundation in data analysis and machine learning while maintaining professional coding standards and clear documentation.
+
+---
+
+## What This Repository Demonstrates
+
+- Strong fundamentals in data analysis with Python
+- Ability to clean, explore, and visualize real datasets
+- Understanding of statistical concepts used in data science
+- Practical exposure to machine learning workflows
+- Consistent learning discipline with incremental progress tracking
+
+---
+
+## Topics & Skills Covered
+
+- Python for Data Analysis
+- NumPy for numerical computing
+- Pandas for data manipulation
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Descriptive Statistics
+- Data Visualization (Matplotlib, Seaborn)
+- Machine Learning Fundamentals (Scikit-learn)
+
+---
+
+## Repository Structure
+```text
+data-science-learning/
+├── 01_python_basics/        # Python syntax, control flow, functions
+├── 02_numpy/               # Numerical computing with NumPy
+├── 03_pandas/              # Data manipulation and analysis
+├── 04_data_cleaning/       # Handling missing data, outliers, formatting
+├── 05_eda/                 # Exploratory Data Analysis
+├── 06_statistics/          # Probability and statistical foundations
+├── 07_visualization/       # Data visualization techniques
+├── 08_ml_basics/           # Introductory machine learning concepts
+├── datasets/               # Raw and processed datasets
+├── notebooks/              # Jupyter notebooks for experiments
+└── README.md               # Project overview and instructions
+```
+---
+
+## Learning Approach
+
+- Concept → implementation → refinement
+- Minimal boilerplate, maximum clarity
+- Reproducible notebooks and scripts
+- One logical concept per commit
+- Emphasis on readable and maintainable code
+
+---
+
+## Tools & Libraries
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+---
+
+## Learning Roadmap
+
+- ✅ Python & NumPy fundamentals
+- ✅ Data manipulation with Pandas
+- 🔄 Data cleaning and EDA
+- 🔄 Statistics and visualization
+- ⏳ Machine learning basics
+- ⏳ Small end-to-end data projects
+
+---
+
+## Status
+
+🚧 Actively updated  
+This repository evolves continuously as new concepts are learned and applied.
+
+---
+
+## Notes
+
+This repository is intended for learning, skill demonstration, and portfolio development. Code quality and clarity are prioritized over premature optimization.
